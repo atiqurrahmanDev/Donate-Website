@@ -1,0 +1,138 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
+h1{
+    font-size: 70px;
+    color: white;
+}
+
+h2{
+    font-size: 45px;
+    font-weight: 900;
+    margin-bottom: 25px;
+}
+
+.text-align-center{
+    text-align: center;
+}
+
+span{
+    display: block;
+}
+.margin-bottom-1stSectPara{
+    color: rgb(222, 255, 206);
+    margin-bottom: 40px;
+    font-size: 18px;
+}
+.margin-top1stPage{
+    padding-top:100px ;
+}
+
+.donate-button{
+    text-decoration: none;
+    color: white;
+    background-color: tomato;
+    padding: 14px 20px 14px 20px;
+    border-radius: 5px;
+    font-weight: 500;
+    font-size: 20px;
+}
+
+.fistpage-background{
+    background-image: url(images/donate3.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height: 600px;
+    margin-top: 0px;
+    margin-bottom: 100px;
+}
+
+.margin-bottom-2nd-SectPara{
+    color: gray;
+    margin-bottom:0;
+    font-size: 16px;
+}
+
+.marginbottom-2nd-section2nd{
+    color: gray;
+    margin-top: 5px;
+    font-size: 16px;
+    margin-bottom: 40px;
+}
+.flex-display{
+    display: flex;
+}
+
+.money-design{
+    color: gray;
+    background-color: rgb(247, 247, 247);
+    margin: 8px;
+    padding: 1px 18px 1px 18px;
+    font-size: 26px;
+    font-weight: 700;
+    border-radius: 4px;
+}
+
+.money-design2nd{
+    color: rgb(248, 59, 59);
+    background-color: rgb(255, 207, 207);
+    margin: 8px;
+    padding: 1px 18px 1px 18px;
+    font-size: 26px;
+    font-weight: 700;
+    border-radius: 4px;
+    border: 1.7px solid red;
+}
+.money-design3rd{
+    color: gray;
+    background-color: rgb(247, 247, 247);
+    margin: 8px;
+    padding: 1px 18px 1px 18px;
+    font-size: 26px;
+    font-weight: 700;
+    border-radius: 4px;
+}
+.money-design4th{
+    color: gray;
+    background-color: rgb(247, 247, 247);
+    margin: 8px;
+    padding: 1px 16px 1px 16px;
+    font-size: 26px;
+    font-weight: 700;
+    border-radius: 4px;
+}
+.money-design5th{
+    color: gray;
+    background-color: rgb(247, 247, 247);
+    margin: 8px;
+    padding: 1px 16px 1px 16px;
+    font-size: 26px;
+    font-weight: 700;
+    border-radius: 4px;
+}
+.money-bordering{
+    text-align: center;
+    margin-left:27%;
+    margin-right: 28%;
+    margin-bottom: 50px;
+
+}
+
+.other-amount{
+    text-align: center;
+    color: rgb(184, 184, 184);
+    font-size: 15px;
+    margin-bottom: 0;
+}
+
+.hr-design{
+    margin-left: 300px;
+    margin-right: 300px;
+    border-top: 1px solid rgb(184, 184, 184);
+    margin-bottom: 20px;
+}
+
+.margin-2nd-section{
+    margin-bottom: 100px;
+}
