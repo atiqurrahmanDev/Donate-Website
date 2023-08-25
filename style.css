@@ -136,3 +136,59 @@ span{
 .margin-2nd-section{
     margin-bottom: 100px;
 }
+
+.margin-bottom70px{
+    margin-bottom: 55px;
+}
+
+h3{
+    font-size: 24px;
+}
+.third-page01{
+    background-color: rgb(197, 248, 231);
+    margin-left: 100px;
+    margin-bottom: 100px;
+    padding: 60px 20px 30px 20px;
+    border-radius: 7px;
+}
+.third-page02{
+    background-color: rgb(255, 217, 232);
+    margin-left: 20px;
+    margin-bottom: 100px;
+    padding: 60px 20px 30px 20px;
+    border-radius: 7px;
+}
+.third-page03{
+    background-color: rgb(252, 255, 216);
+    margin-left: 20px;
+    margin-bottom: 100px;
+    margin-right: 100px;
+    padding: 60px 20px 30px 20px;
+    border-radius: 7px;
+}
+.fourth-page-text{
+    margin-left: 100px; 
+}
+.fourth-pageHeading{
+    margin-bottom: 0px;
+}
+.fouth-pagePara{
+    margin-top: 20px;
+}
+.fouth-pagePara2{
+    margin-top: 0px;
+    margin-bottom: 45px;
+}
+
+.fourth-page-img{
+    width: 600px;
+    height: 475px;
+    margin-left: 50px;
+    margin-right: 100px;
+    border-radius: 7px;
+}
+
+h4{
+    font-size: 40px;
+    font-weight:bolder;
+}
